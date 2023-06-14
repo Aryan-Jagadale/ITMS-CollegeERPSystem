@@ -1,0 +1,95 @@
+.cmp_logo {
+  max-width: 4rem;
+  position: relative;
+  left: 88%;
+  border-radius: 50%;
+}
+
+Nav {
+  background-color: #fff;
+}
+
+.sign-out1 {
+  width: auto;
+  height: 30px;
+  border-color: blue;
+  background-color: black;
+}
+
+
+/* button css */
+
+.logout-btn {
+  border-radius: 4px;
+  background-color: #fff;
+  border: none;
+  color: #000;
+  text-align: center;
+  font-size: 15px;
+  padding: 10px;
+  width: 150px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 36px;
+  box-shadow: 0 10px 20px -8px rgba(0, 0, 0, .7);
+}
+
+.logout-btn {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.logout-btn:after {
+  content: '»';
+  position: absolute;
+  opacity: 0;
+  top: 14px;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.logout-btn:hover {
+  padding-right: 24px;
+  padding-left: 8px;
+}
+
+.logout-btn:hover:after {
+  opacity: 1;
+  right: 10px;
+}
+
+.logout-logo {
+  width: 20%;
+  margin-right: 1rem;
+}
+
+/* Button css ends */
+/*  */
+
+.bottom-logo {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.cmp_name {
+  color: white;
+  margin-left: 10px;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.admin_name {
+  color: white;
+  font-size: 1rem;
+  font-weight: bold;
+
+}
+
+@media only screen and (max-width: 913px) {
+  .cmp_logo {
+    left: 60%;
+  }
+}

@@ -1,0 +1,121 @@
+.RegisterPage{
+    background-image: url("../../images/Login.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 1rem;
+}
+
+.reg-btn{
+    padding: 0.3rem;
+    margin-left: 0.3rem;
+}
+.register {
+    width: 500px;
+    border: 1px solid #dddfe2;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    border-radius: 8px;
+    padding: 1rem;
+    margin-left: 35%;
+    max-width: 45rem;
+    height: 37rem;
+    padding: 2rem;
+    background: linear-gradient(
+        180deg,
+        rgba(1, 75, 44, 0.4) 0%,
+        rgba(184, 224, 22, 0.344) 100%
+    );
+    border-radius: 3px;
+    text-align: center;
+    margin-left: 25rem;
+    margin-bottom: 4.3rem;
+}
+
+.IT-MS {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 275;
+    font-size: 2.2rem;
+    line-height: 2rem;
+  
+    color: rgba(0, 58, 106, 0.9);
+  }
+  .GPA {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.3rem;
+    line-height: 2rem;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  
+    color: rgba(31, 170, 170, 1);
+  }
+  
+  .login-icon {
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25))
+      drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25))
+      drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    width: 6.5rem;
+    height: 7rem;
+    margin-top: -20px;
+  }
+  
+  .log {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 14px;
+    padding-bottom: 1rem;
+  
+    color: #ffffff;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+
+  
+.register-title {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-size: 32px;
+    color: #333333;
+}
+
+.register>input {
+    border-radius: 8px;
+    border: 2px solid #dddfe2;
+    outline: none;
+    color: #1d2129;
+    margin: 0.5rem 0;
+    padding: 0.5rem 0.75rem;
+    width: 92%;
+    font-size: 1rem;
+}
+
+.register>.button {
+    box-sizing: border-box;
+    width: auto;
+    height: 50px;
+    color: #fff;
+    font-size: 1.25rem;
+    background: #6A45BE;
+    /* opacity: 0.25; */
+    border: 1px solid #3C3B6E;
+    border-radius: 32px;
+    margin: 10%;
+    margin-bottom: 2%;
+    padding: 3%;
+}
+.or-color{
+    color: white;
+}
+.register>.button:hover {
+    opacity: 0.25;
+}
+
+@media only screen and (max-width: 900px) {
+    .register {
+        width: auto;
+        margin: 2rem;
+        margin-top: 10rem;
+    }
+}

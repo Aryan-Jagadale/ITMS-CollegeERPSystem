@@ -1,0 +1,37 @@
+.StudentAchievementsHOD{
+    margin-left: 5rem;
+    padding-top: 5rem;
+}
+
+.TopperList{
+    margin-left: 5rem;
+}
+.sy{
+    margin-left: 25rem;
+    margin-right: 2rem;
+}
+.fy{
+    margin-right: 2rem;
+}
+.sy-btn{
+    display:inline !important;
+
+    height: 50px;
+    background-color: #11101d;
+    color: white;
+    font-size: 20px;
+    font-family: arial, sans-serif;
+    margin-top: 1rem !important;
+    text-align: center;
+    padding-left :2rem;
+    padding-right: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-bottom: 5rem;
+    border-radius: 10px;
+    text-decoration: none !important;
+    
+}
+.fideo{
+    margin-top: 1rem !important;
+} 

@@ -1,0 +1,104 @@
+#row {
+    padding: 2rem;
+    padding-top: 5rem;
+    justify-content: center;
+    background-color: #f8f9fa;
+    width: 100%;
+  }
+  
+  .sub1 {
+    width: 15rem;
+    height: 8rem;
+    background: linear-gradient(
+      101.38deg,
+      #8500a7 3.84%,
+      rgba(204, 0, 255, 0.95) 46.66%,
+      rgba(205, 4, 255, 0.6) 110.03%
+    );
+    box-shadow: 35px 12px 23px rgba(201, 176, 255, 0.25);
+    border-radius: 6px;
+    color: white;
+    padding: 1rem;
+    margin-right: 1rem;
+  }
+  
+  .sub2 {
+    color: white;
+    padding: 1rem;
+    margin-right: 1rem;
+  
+    width: 15rem;
+    height: 8rem;
+    background: linear-gradient(
+      101.44deg,
+      #0089b5 14.59%,
+      rgba(27, 187, 238, 0.88) 82.65%,
+      rgba(51, 194, 239, 0.45) 110.59%
+    );
+    border: 0.5px solid #e4e4e4;
+    box-sizing: border-box;
+    box-shadow: 35px 12px 23px rgba(201, 176, 255, 0.25);
+    border-radius: 6px;
+  }
+  
+  .sub3 {
+    color: white;
+    padding: 1rem;
+    margin-right: 1rem;
+  
+    width: 15rem;
+    height: 8rem;
+    background: linear-gradient(
+      100.38deg,
+      #038117 9.5%,
+      rgba(1, 210, 35, 0.71) 88.24%,
+      rgba(36, 198, 62, 0.67) 104.42%
+    );
+    border: 0.5px solid #e4e4e4;
+    box-sizing: border-box;
+    box-shadow: 35px 12px 23px rgba(201, 176, 255, 0.25);
+    border-radius: 6px;
+  }
+  
+  .sub4 {
+    color: white;
+    padding: 1rem;
+    margin-right: 1rem;
+  
+    width: 15rem;
+    height: 8rem;
+    background: linear-gradient(
+      102.45deg,
+      #e47c00 2.48%,
+      #e4b200 52.84%,
+      rgba(228, 219, 0, 0.63) 102.57%
+    );
+    border: 0.5px solid #e4e4e4;
+    box-sizing: border-box;
+    box-shadow: 35px 12px 23px rgba(201, 176, 255, 0.25);
+    border-radius: 6px;
+  }
+  
+  .subname {
+    font-size: 2rem;
+  }
+  
+  .subcode {
+    font-size: 1rem;
+  }
+  
+  .it {
+    height: auto;
+    text-align: center;
+    margin-top: 2rem;
+    width: 100%;
+    margin-left: 5rem;
+    padding: .1rem;
+  
+    background: #ffffff;
+    border: 1px solid #ffffff;
+    box-sizing: border-box;
+    box-shadow: 35px 12px 23px rgba(201, 176, 255, 0.25);
+    border-radius: 10px;
+  }
+  

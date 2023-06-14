@@ -1,0 +1,79 @@
+.input-box{
+  box-sizing: border-box;
+  width: 948px;
+  height: 50px;
+  left: 380px;
+  top: 171px;
+  margin-bottom: 20px;
+  margin-top: 5px;
+  background: #FFFFFF;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+}
+.subButton{
+  width: 141px;
+  height: 50px;
+  padding-right: 0rem;
+  margin-left: 2rem;
+  margin-top: 1rem;
+  background: #FFFFFF;
+  border: 1px solid #58F768;
+  border-radius: 10px;
+}
+.cancelButton{
+  width: 141px;
+  height: 50px;
+  padding-right: 0rem;
+  margin-left: 2rem;
+  /* left: 654px; */
+  /* top: 671px; */
+  background: #FFFFFF;
+  border: 1px solid #58F768;
+  border-radius: 10px;
+}
+.main-sec{
+    padding-top: 2rem !important;
+    margin-right: 100px;
+}  
+  .update{
+     width: 900px; 
+    height: 50px; 
+  
+    /* margin-top: 10px; */
+  
+  background: #FFFFFF;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  box-sizing: border-box;
+  border-radius: 10px;
+  margin-bottom: 1rem !important;
+  }
+  
+  button{
+    position: absolute;
+    width: 141px;
+    height: 50px;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    box-sizing: border-box;
+    border-radius: 10px;
+    background-color: white;
+    font-size: 15px;
+    margin-top: -2rem !important;
+
+  }
+  .submit{
+    border-color: green;
+    margin-left: 35%;
+    margin-right: 5%;   
+  }
+  .cancel{
+    border-color: red;
+  }
+  
+  .subButton:hover{
+    background-color: green;
+    color: white;
+  }
+  .cancelButton:hover{
+    background-color: red;
+    color: white;
+  }

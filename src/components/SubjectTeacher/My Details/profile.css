@@ -1,0 +1,111 @@
+.profile-main{
+    padding-top: 5rem;
+    padding-bottom: 3rem;
+}
+.profile{
+    padding-bottom: 2rem;
+}
+.profile_box{
+
+    width: 1154px;
+    height: 430px;
+    margin-left: 150px;
+    margin-top: 20px;
+    padding-top: 1rem;
+    background: #FFFFFF;
+    border: 0.5px solid #E4E4E4;
+    box-sizing: border-box;
+    box-shadow: 35px 12px 23px rgba(201, 176, 255, 0.25);
+    border-radius: 15px;
+  }
+  .security{
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 1rem;
+    padding-bottom: 0.5rem;
+  }
+  
+  .upd_section{
+    margin-left: 200px;
+    margin-top: 50px;
+  }
+  
+  
+  .update{
+    width: 948px;
+    height: 50px;
+  
+    margin-top: 10px;
+    margin-left: 50px;
+  
+  background: #FFFFFF;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  box-sizing: border-box;
+  border-radius: 10px;
+  }
+  
+  button{
+    position: relative;
+    width: 141px;
+    height: 50px;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    box-sizing: border-box;
+    border-radius: 10px;
+    background-color: white;
+    font-size: 15px;
+    top: 10px;
+  }
+  .submit{
+    border-color: green;
+    margin-left: 42% !important;
+    margin-top: 0.5rem !important;
+  }
+  .submit:hover{
+    background-color: green;
+    color: white;
+  }
+  
+  /*security setting ends*/
+  /*account setting starts*/
+  
+  
+  .profile_box2{
+    width: 1154px;
+    height: 550px;
+    margin-left: 150px;
+    margin-top: 10px;
+    /* padding-top: 1rem; */
+  
+  
+  background: #FFFFFF;
+  border: 0.5px solid #E4E4E4;
+  box-sizing: border-box;
+  box-shadow: 35px 12px 23px rgba(201, 176, 255, 0.25);
+  border-radius: 15px;
+  }
+  .upadateLeft{
+    width: 400px;
+    height: 50px;
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    box-sizing: border-box;
+    border-radius: 10px;
+  
+    margin-left: 80px;
+    margin-bottom: -2rem !important;  
+  }
+  
+  .upadateRight{
+     width: 400px;
+    height: 50px;
+      background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    box-sizing: border-box;
+    border-radius: 10px;
+    margin-left: 90px;
+    margin-bottom: -2rem !important;
+  }
+  .fileImg{
+    margin-left: 22%;
+    margin-top: 3rem !important;
+  }

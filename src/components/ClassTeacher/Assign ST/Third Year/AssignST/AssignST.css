@@ -1,0 +1,58 @@
+.LeavesHOD, .facultysCR, .facultysList{
+    margin-left: 5rem;
+    padding-top: 5rem;
+}
+
+
+.fidoh4{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.AllowBTN{
+    width: 4rem;
+    height: auto;
+    color: black;
+    border-radius: 5px;
+    border-color: green;
+    position: static;
+}
+
+.AllowBTN:hover{
+    background-color: green;
+    color: white;
+}
+
+.DenyBTN{
+    width: 4rem;
+    height: auto;
+    color: black;
+    border-radius: 5px;
+    border-color: red;
+    position: static;
+    margin-left: .2rem;
+}
+
+.DenyBTN:hover{
+    background-color: red;
+    color: white;
+}
+
+.Assign{
+    color: black;
+    height: auto;
+    position: static;
+    border-radius: 5px;
+    border-color: green;    
+}
+
+.Assign:hover{
+    background-color: green;
+    color: white;
+}
+
+.fidoh44{
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
